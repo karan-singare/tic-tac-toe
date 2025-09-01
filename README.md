@@ -24,7 +24,7 @@ A modern, interactive tic-tac-toe game built with React and Vite. This project d
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/karan-singare/tic-tac-toe.git
 cd tic-tac-toe
 ```
 
