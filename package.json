@@ -1,7 +1,8 @@
 {
-  "name": "react-essentials-deep-dive-adv",
+  "name": "tic-tac-toe",
+  "description": "A modern, interactive tic-tac-toe game built with React and Vite featuring two-player gameplay, move history, and customizable player names.",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
